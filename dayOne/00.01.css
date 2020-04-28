@@ -1,0 +1,38 @@
+body {
+    background-color: grey;
+}
+
+h1 {
+    color: lightgreen;
+    text-align: center;
+}
+
+h3 {
+    color: blue;
+    text-align: center;
+}
+
+p {
+    color: red;
+    text-align: center;
+}
+
+#align {
+    display: flex;
+    justify-content: space-evenly;
+}
+    
+
+div {
+    border: 5px solid black;
+    border-radius: 25px;
+    padding: 2px 2px 10px 2px;
+}
+
+.lightgrey {
+    border: 2px solid black;
+    border-radius: 25px;
+    background: lightgrey;
+    margin: 0px 0px 4px 0px
+}
+
