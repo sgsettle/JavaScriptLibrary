@@ -1,4 +1,4 @@
-// shortcut for writing if and if else statements, but not else if
+// shortcut for writing if and if else statements
 
 let num = 6;
 
