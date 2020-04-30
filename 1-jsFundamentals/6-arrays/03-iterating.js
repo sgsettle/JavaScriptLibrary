@@ -4,7 +4,7 @@ for (let i = 0; i < food.length; i++){
     // console.log(food[i]);
 }
 
-// food.forEach((foodItem, i) => console.log(i, foodItem));
+food.forEach((foodItem, i) => console.log(i, foodItem));
 
 let movies = ["Scott Pilgrim", "Halloween", "The Invisible Man", "Harry Potter and The Sorcerers Stone"];
 
