@@ -1,5 +1,6 @@
 // grabs the keys, will give numbers before values 
 // better for arrays 
+// properties are strings
 
 let student = {
     name: "Peter",
