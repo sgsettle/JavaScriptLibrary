@@ -1,3 +1,9 @@
+// document = overall DOM, the overall HTML document/page
+// getElementById = method on our DOM that finds one particular element based on its ID
+// style = property of HTML element that controls style
+// color = property of style we want to access
+
+
 let listTitle = document.getElementById('listTitle');
 console.log(listTitle);
 
